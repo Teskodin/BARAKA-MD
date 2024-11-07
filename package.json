@@ -1,16 +1,16 @@
 
 {
-  "name": "Baraka-MD",
+  "name": "Tesko MD",
   "version": "10.8.1",
-  "description": "Baraka-MD latest multi device whatsapp bot",
+  "description": "Tesko-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Baraka-MD",
-    "stop": "pm2 stop Baraka-MD",
-    "restart": "pm2 restart Baraka-MD"
+    "stop": "pm2 stop Tesko-MD",
+    "restart": "pm2 restart Tesko-MD"
   },
-  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["Tesko-Md", "whatsapp-bot", "whatsapp md bot"],
   "author": "Baraka Bega",
   "license": "ISC",
   "dependencies": {
